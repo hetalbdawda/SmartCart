@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_scanner"
+        android:icon="@drawable/scanner"
+        android:title="Scanner" />
+    <item
+        android:id="@+id/nav_grocery_list"
+        android:icon="@drawable/grocery_list"
+        android:title="Grocery List" />
+    <item
+    android:id="@+id/nav_location"
+    android:icon="@drawable/location"
+    android:title="Location" />
+</menu>
